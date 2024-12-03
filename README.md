@@ -5,7 +5,7 @@ Due to the very weak signal of the original remote control, I copied all the but
 ```
 - On/Off          A: 0x01 C: 0x40
 - Mute            A: 0x01 C: 0x41
-- Brightness      A: 0x01 C: 0x43
+- Settings        A: 0x01 C: 0x43
 - Input change    A: 0x01 C: 0x0F
 - Mouse           A: 0x01 C: 0x00
 - Up              A: 0x01 C: 0x16
